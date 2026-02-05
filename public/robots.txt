@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jerrysoer.github.io/precision-recall-explainer/sitemap.xml
